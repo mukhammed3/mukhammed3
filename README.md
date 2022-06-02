@@ -1,14 +1,14 @@
 Hi 👋 My name is Muhammed
 =========================
 
-Web Developer
+I'm a Front End Developer
 -------------
 
 I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️
 
-* 🌍  I'm based in Ukrainee / Azerbaijan
+* 🌍  I'm based in Ukraine / Azerbaijan
 * 🖥️  See my portfolio at [My Website](http://aliev.tech)
-* ✉️  You can contact me at [a1iyev@ukr.net](mailto:a1iyev@ukr.net)
+* ✉️  You can contact me at [aliyev.developer@gmail.com](mailto:aliyev.developer@gmail.com)
 * 🤝  I'm open to collaborating on project work or partnerships
 
 ### Skills
