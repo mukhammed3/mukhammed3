@@ -7,7 +7,7 @@ I'm a Front End Developer
 I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️
 
 * 🌍  I'm based in Ukraine / Azerbaijan
-* 🖥️  See my portfolio at [My Website](http://aliev.tech)
+* 🖥️  See my portfolio at [www.aliev.tech](http://aliev.tech)
 * ✉️  You can contact me at [aliyev.developer@gmail.com](mailto:aliyev.developer@gmail.com)
 * 🤝  I'm open to collaborating on project work or partnerships
 
