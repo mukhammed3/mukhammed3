@@ -1,15 +1,13 @@
-Hi 👋 My name is Muhammed
-=========================
+# Hi 👋 My name is Muhammed
 
-I'm a Front End Developer
--------------
+## I'm a Front End Developer
 
 I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️
 
-* 🌍  I'm based in Ukraine / Azerbaijan
-* 🖥️  See my portfolio at [www.aliev.tech](http://aliev.tech)
-* ✉️  You can contact me at [aliyev.developer@gmail.com](mailto:aliyev.developer@gmail.com)
-* 🤝  I'm open to collaborating on project work or partnerships
+- 🌍  I'm based in Ukraine / Azerbaijan
+- 🖥️  See my portfolio at [www.aliev.tech](http://aliev.tech)
+- ✉️  You can contact me at [aliyev.developer@gmail.com](mailto:aliyev.developer@gmail.com)
+- 🤝  I'm open to collaborating on project work or partnerships
 
 ### Skills
 
@@ -17,7 +15,7 @@ I describe myself as a passionate developer who loves coding, open source, and t
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
   
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-  <img src="https://github.com/mukhammed3/goit-js-hw-10-food-service/blob/main/src/images/sprite.svg" width="36" height="36" alt="HTML5" />
+  <img src="./sc.svg" width="36" height="36" alt="HTML5" />
   </a>
   
 <!--   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
@@ -35,13 +33,9 @@ I describe myself as a passionate developer who loves coding, open source, and t
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> 
   <a href="https://www.github.com/mukhammed3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/muhammed-aliyev-231971234/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 </p>
-
-
-
