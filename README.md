@@ -15,11 +15,18 @@ I describe myself as a passionate developer who loves coding, open source, and t
 <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JS" /></a> -->
 <a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="./js.svg" width="36" height="36" alt="JS" /></a>
 <a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="./ts.svg" width="36" height="36" alt="TS" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="./react.svg" width="36" height="36" alt="REACT" /></a>
+<a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="./sc.svg" width="36" height="36" alt="ST" /></a>  
 <a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="./html.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="./css.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="./react.svg" width="36" height="36" alt="REACT" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="./redux.svg" width="36" height="36" alt="REDUX" /></a>
-<a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="./sc.svg" width="36" height="36" alt="ST" /></a>  
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="./sass.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="./tlw.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="./blm.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="./bts.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="./mui.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="./webp.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="./glp.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="./prcl.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
