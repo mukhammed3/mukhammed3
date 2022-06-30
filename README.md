@@ -34,3 +34,7 @@ I describe myself as a passionate developer who loves coding, open source, and t
   <a href="https://www.github.com/mukhammed3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/muhammed-aliyev-231971234/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 </p>
+
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/mukhammed3" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" aria-label="Follow @mukhammed3 on GitHub">Follow @mukhammed3</a>
