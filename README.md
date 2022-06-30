@@ -33,6 +33,6 @@ I describe myself as a passionate developer who loves coding, open source, and t
 ### Socials
 
 <p align="left"> 
-  <a href="https://www.linkedin.com/in/muhammed-aliyev-231971234/" target="_blank" rel="noreferrer"><img src="./svg/lnkd.svg" width="36" height="36" alt="CSS3" /></a>
   <a href="https://aliev.tech/" target="_blank" rel="noreferrer"><img src="./svg/port.svg" width="36" height="36" alt="PORTFOLIO" /></a>
+  <a href="https://www.linkedin.com/in/muhammed-aliyev-231971234/" target="_blank" rel="noreferrer"><img src="./svg/lnkd.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
