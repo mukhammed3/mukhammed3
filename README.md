@@ -36,5 +36,4 @@ I describe myself as a passionate developer who loves coding, open source, and t
 </p>
 
 
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/mukhammed3" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" aria-label="Follow @mukhammed3 on GitHub">Follow @mukhammed3</a>
+
